@@ -22,5 +22,7 @@ A survival game where you must gather resources to build a raft and escape the i
 
 ## 🤝 Contribution
 
-Suggestions are welcome!
+![](./CONTRIBUTOR_MURAL.svg)
+
 Contributors: Mikael, Lucas, Murillo, and Hickelme.
+Suggestions are welcome!
